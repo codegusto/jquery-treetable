@@ -447,7 +447,6 @@
         onNodeInitialized: null
       }, options);
 
-      alert('--->settings = ' + settings);
       return this.each(function() {
         var el = $(this), tree;
 
